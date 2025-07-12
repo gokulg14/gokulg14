@@ -6,6 +6,9 @@
 
 ## 💻 Projects
 
+- 🧑‍💻 **[VirtualBid – Online Auction Platform](https://github.com/gokulg14/VirtualBid)**  
+  A full-stack MERN auction system where users can list and participate in timed bids, with real-time status updates and image uploads.
+
 - 🚗 **[Smart Parking Management System](https://github.com/gokulg14/autospaXeBackend)**  
   IoT-integrated smart parking platform with mobile app, admin dashboard, and backend APIs.  
 
@@ -17,10 +20,12 @@
 
 ## 🔧 Tech Stack
 
-- **Languages:** Java, Dart, Python, JavaScript, C++, 
+- **Languages:** Java, Dart, Python, JavaScript, C++  
 - **Mobile:** Flutter, Android (Java)  
-- **Backend:** Spring Boot, REST API, MySQL  
-- **Others:** Arduino, TensorFlow Lite, SQLite  
+- **Backend:** Spring Boot, Node.js, Express.js  
+- **Frontend:** React.js  
+- **Database:** MongoDB, MySQL, SQLite  
+- **Others:** Arduino, TensorFlow Lite, REST APIs
 
 ## 📫 Reach Me
 
